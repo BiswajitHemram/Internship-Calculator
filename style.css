@@ -110,10 +110,7 @@ main{
     gap: 20px;
 }
 
-.result{
-    font-size: 40px; /*font-size will change when user click on = sign to 50px*/
-}
 
 .current-operation{
-    font-size: 25px; 
+    font-size: 50px; 
 }
